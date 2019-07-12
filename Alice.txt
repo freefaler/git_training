@@ -1,2 +1,4 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Added some changes in the second row.
+
+Uppss, more changes from GitHub interface!
