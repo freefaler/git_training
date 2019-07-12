@@ -1,3 +1,2 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
-Added a second row in Alice.
-And a 3rd row...
+Added some changes in the second row.
