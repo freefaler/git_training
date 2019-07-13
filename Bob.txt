@@ -1,2 +1,4 @@
 Hi! I'm Bobby. I've been here for a while now.
 Ohh...second row here!
+
+A new row for interactive rebase in Bob
