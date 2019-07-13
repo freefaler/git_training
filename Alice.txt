@@ -4,3 +4,6 @@ Uppss, more changes from GitHub interface! and more in GitHub's interface!!
 These are local changes! and some additional local ones!!!
 
 Some new rows in my latest commit!
+
+New rows for interactive rebase in Alice.
+Even more rows for interactive rebase.
