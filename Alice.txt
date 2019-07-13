@@ -2,3 +2,5 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Added some changes in the second row.
 Uppss, more changes from GitHub interface! and more in GitHub's interface!!
 These are local changes! and some additional local ones!!!
+
+Some new rows in my latest commit!
